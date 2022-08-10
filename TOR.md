@@ -7,7 +7,6 @@ Ce mod n'est pas affilié avec Among Us ou Innersloth LLC, et le contenu n'est p
 [![Discord](https://raw.githubusercontent.com/TheOtherRolesAU/TheOtherRoles/main/Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
 ![eisbison infographic](https://raw.githubusercontent.com/TheOtherRolesAU/TheOtherRoles/main/Images/TOR_Roles.png)
 
-
 # The Other Roles
 
 **The Other Roles**, est un mod pour [Among Us](https://store.steampowered.com/app/945360/Among_Us) qui ajoute beaucoup de rôles, des nouveaux [Paramètres](#settings) et des nouveaux [Chapeaux Custom](#custom-hats) au jeu.
@@ -35,10 +34,10 @@ Plus de rôles sont en cours de développement. :)
 |  | [Medium](#medium) |  |  |
 |  | [Nice Guesser](#guesser) |  |
 
-The [Role Assignment](#role-assignment) sections explains how the roles are being distributed among the players.
+La section [Role Assignment](#role-assignment) explique comment les rôles sont distribués parmis les joueurs.
 
 # Releases
-| Among Us - Version| Mod Version | Link |
+| Among Us - Version| Version du mod | Lien |
 |----------|-------------|-----------------|
 | 2022.6.21, 2022.7.12| v4.1.6| [Télécharger](https://github.com/Eisbison/TheOtherRoles/releases/download/v4.1.6/TheOtherRoles.zip)
 | 2022.6.21, 2022.7.12| v4.1.5| [Télécharger](https://github.com/Eisbison/TheOtherRoles/releases/download/v4.1.5/TheOtherRoles.zip)
@@ -627,25 +626,25 @@ Cela ne marche pas? Vous devriez installer la dépendance [vc_redist](https://ak
 4. Lancez le jeu via Steam
 
 ## The Other Roles Custom Servers
-**A custom server is not necessary and official servers are working just fine with the mod, but in case you want to set up and host your own server, here's a guide for you to follow.**
+**Un serveur custom n'est pas nécessaire et les serveurs officiels fonctionnent parfaitement avec le mod, mais au cas où vous voulez préparer et host votre propre serveur, Il y a un guide que vous devriez suivre.**
 
-**Setup the Server:**
-1. Get the Impostor release (https://github.com/Impostor/Impostor)
-2. Follow the steps (using the server release you just downloaded) on the official Impostor-Documentation (https://github.com/Impostor/Impostor/wiki/Running-the-server)
-3. Make sure to set the following values to false in the config.json file:
+**Paramètrer le serveur:**
+1. Prenez la version de Impostor (https://github.com/Impostor/Impostor)
+2. Suis les étapes (utilise la version du serveur que tu viens de télécharger) sur le documentation officielle de Imposter (https://github.com/Impostor/Impostor/wiki/Running-the-server)
+3. Soyez sûr d'avoir mis en "false" les configurations suivantes dans le fichier config.json:
 ```    ...
      'AntiCheat': {
        'Enabled': false,
       'BanIpFromGame': false
     }
 ```
-4. Make sure to forward the right ports on the hosting machine.
-5. Run the server and setup the client.
-Setting up Server as Docker Container:
-If you want to run the server as a docker container you'll need to use the image
+4. Soyez sur de régler les bons ports sur votre machine serveur.
+5. Lancez le server et préparez le client.
+Préparer le server comme Docker container:
+Si vous voulez lancer le serveur comme un docker container vous devriez utiliser l'image
 aeonlucid/impostor:nightly
 
-(Currently only the 'nightly' tag is starting a server supporting 2021.3.31 or later)
+(Pour l'instant, seul le tag 'nightly' peut lancer un serveur supportant la version 2021.3.31 ou plus)
 In addition to running it we need to set the environment variables to disable the AntiCheat feature.
 IMPOSTOR_AntiCheatEnabled=false
 IMPOSTOR_AntiCheatBanIpFromGame=false
