@@ -1,11 +1,11 @@
-![eisbison banner](./Images/TOR_logo.png)
+![eisbison banner](https://raw.githubusercontent.com/TheOtherRolesAU/TheOtherRoles/main/Images/TOR_logo.png)
 <p align="center"><a href="https://github.com/Eisbison/TheOtherRoles/releases/"><img src="https://badgen.net/github/release/eisbison/theotherroles"></a></p>
 
 <p align="center">
 Ce mod n'est pas affilié avec Among Us ou Innersloth LLC, et le contenu n'est pas fait ou sponsorisé par Innersloth LLC. Ce qu'il y a à l'intérieur de ce mod n'est pas la propriété d'Innersloth LLC. © Innersloth LLC.</p>
 
-[![Discord](./Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
-![eisbison infographic](./Images/TOR_Roles.png)
+[![Discord](https://raw.githubusercontent.com/TheOtherRolesAU/TheOtherRoles/main/Images/TOR_server.png)](https://discord.gg/77RkMJHWsM)
+![eisbison infographic](https://raw.githubusercontent.com/TheOtherRolesAU/TheOtherRoles/main/Images/TOR_Roles.png)
 
 
 # The Other Roles
