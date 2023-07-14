@@ -1,10 +1,11 @@
-### Hello! I'm a french young programmer (14 yo) and I want to discover everything!
+### Hello! I'm a french young programmer (15 yo) and I want to discover everything!
 ## My knowledge
 I can talk easily in english and I know some programmation langages
 - Java
 - JavaScript
 - HTML
 - CSS
+- PHP
 - C (a little)
 - C# (a little)
 - C++ (a little)
