@@ -13,10 +13,11 @@ I can talk easily in english and I know some programmation langages
 - Batch
 
 ## My Projects
-- I've made a french version of the popular mod "The Others Roles" on Among Us
 - I'm working on a mobile app: NickNote (not available on the PlayStore)
 - I'm creating a Minecraft Server with a friend
 - I'm creating a website for this Server
+
+I'm Developer on the Minecraft Server (Derycube)[https://derycube.fr/]
 
 ### And I love you all!!
 <!--
