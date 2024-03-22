@@ -17,4 +17,3 @@ I can talk easily in english and I know some programmation langages
 - I'm creating a website for this Server
 - I'm Developer on the Minecraft Server [Derycube](https://derycube.fr/)
 
-### And I love you all!!
