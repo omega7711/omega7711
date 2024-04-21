@@ -12,5 +12,3 @@ I can talk easily in english and I know some programmation langages
 ## My Projects
 - I'm creating a Minecraft Server with a friend
 - I'm creating a website for this Server
-- I'm Developer on the Minecraft Server [Derycube](https://derycube.fr/)
-
