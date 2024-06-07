@@ -3,6 +3,7 @@
 I can talk easily in english and I know some programmation langages
 - Java
 - JavaScript
+- Python
 - PHP
 - C# (a little)
 - C++ (a little)
