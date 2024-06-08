@@ -1,4 +1,4 @@
-### Hello! I'm a french young programmer (15 yo) and I want to discover everything!
+### Hello! I'm a french young programmer (16 yo) and I want to discover everything!
 ## My knowledge
 I can talk easily in english and I know some programmation langages
 - Java
